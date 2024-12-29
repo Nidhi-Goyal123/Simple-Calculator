@@ -13,9 +13,11 @@ body {
     height: 575px;
    border:1px solid #3a4452;
     text-align: center;
+    border-radius: 16px;
    
     background: transparent;
 
+    box-shadow: 0px 3px 15px rgba(113,115,119,0.3)
 }
 #ig{
     margin-top: 15px;
@@ -30,8 +32,8 @@ body {
     border:none;
   background: #3a4452;
   color:black;
-  margin-top: 10px;
-    
+  margin-top: 20px;
+    margin-bottom: 40px;
 }
 #btn1{
     border-radius: 50%;
